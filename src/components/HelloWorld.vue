@@ -14,7 +14,7 @@
 
 <script>
   import Lottie from './lottie.vue';
-  import * as animationData from './assets/pinjump.json';
+  import * as animationData from './assets/Walkthrough.json';
 
   export default {
     name: 'app',
